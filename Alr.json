@@ -1,0 +1,108 @@
+{
+  "name": "Rosé Quintuplets",
+  "description": "A soft rose-and-cream light theme drawn from The Quintessential Quintuplets wedding art, with black outlines, a darker rose accent, and a wallpaper background.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Rexiê愛~",
+      "id": "1198310950789451879"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#D87988"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#EAD3CE"
+    ],
+    "CHAT_BACKGROUND": [
+      "#FDFBF5"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#C25C64"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F7EAE6"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F3A0AA"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#E7838E"
+    ],
+    "MENTION_BACKGROUND": [
+      "#F3A0AA"
+    ],
+    "MENTION_FOREGROUND": [
+      "#5A1219"
+    ],
+    "BACKGROUND_MESSAGE_MENTIONED": [
+      "#F3A0AA"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": [
+      "#F3A0AA"
+    ],
+    "BG_MESSAGE_MENTIONED": [
+      "#F3A0AA"
+    ],
+    "BACKGROUND_MENTIONED_ALT": [
+      "#F3A0AA"
+    ],
+    "BACKGROUND_MESSAGE_MENTIONED_HOVER": [
+      "#E7838E"
+    ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#E7838E"
+    ],
+    "BG_MESSAGE_MENTIONED_HOVER": [
+      "#E7838E"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#3B141450",
+    "BRAND_260": "#FBE2C9",
+    "BRAND_360": "#F3A89F",
+    "BRAND_500": "#BB4F56",
+    "BRAND_560": "#A3434A",
+    "PRIMARY_200": "#8F6A70",
+    "PRIMARY_300": "#8F6A70",
+    "PRIMARY_330": "#8F6A70",
+    "PRIMARY_360": "#7A555C",
+    "PRIMARY_400": "#6B4048",
+    "PRIMARY_430": "#6B4048",
+    "PRIMARY_460": "#5A343B",
+    "PRIMARY_500": "#4A2A30",
+    "PRIMARY_800": "#2A1216"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Bold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Medium": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Normal": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Bold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Medium": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Normal": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Semibold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "SourceCodePro-Bold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "SourceCodePro-Medium": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "SourceCodePro-Regular": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf",
+    "SourceCodePro-Semibold": "https://github.com/rayhan0706/Tqq-font-/raw/refs/heads/main/Quintessential-Regular.ttf"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#A83F4D",
+    "customOverlays": true
+  },
+  "spec": 2,
+  "createdAt": "2026-09-27",
+  "source": "local",
+  "background": {
+    "url": "https://raw.githubusercontent.com/rayhan0706/The-Quintessiential-Quintupplets/refs/heads/main/tqq.gif",
+    "blur": 1.5,
+    "alpha": 0.18,
+    "size": "cover",
+    "position": "center"
+  }
+}
